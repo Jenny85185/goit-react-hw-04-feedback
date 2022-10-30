@@ -25,7 +25,9 @@ h6,
 p {
   margin: 0;
 }
-
+button {
+  cursor: pointer;
+}
 ul,
 ol {
   margin: 0;
