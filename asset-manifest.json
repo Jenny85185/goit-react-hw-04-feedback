@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-02-feedback/static/css/main.2cff6667.css",
+    "main.js": "/goit-react-hw-02-feedback/static/js/main.a330287b.js",
+    "static/media/espresso.jpg": "/goit-react-hw-02-feedback/static/media/espresso.699d025840c7248fcd29.jpg",
+    "static/media/coffee.jpg": "/goit-react-hw-02-feedback/static/media/coffee.1383ab044270d8c5e5d1.jpg",
+    "index.html": "/goit-react-hw-02-feedback/index.html",
+    "main.2cff6667.css.map": "/goit-react-hw-02-feedback/static/css/main.2cff6667.css.map",
+    "main.a330287b.js.map": "/goit-react-hw-02-feedback/static/js/main.a330287b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cff6667.css",
+    "static/js/main.a330287b.js"
+  ]
+}
